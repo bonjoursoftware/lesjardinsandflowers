@@ -2250,6 +2250,13 @@ input, select, textarea {
     height: auto;
 }
 
+/* Font */
+
+.xx-large {
+    font-size: xx-large;
+    -webkit-text-stroke: 1px #000;
+}
+
 /* Home */
 
 	#home {
