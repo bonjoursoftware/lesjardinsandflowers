@@ -2252,8 +2252,8 @@ input, select, textarea {
 
 /* Font */
 
-.xx-large {
-    font-size: xx-large;
+.x-large {
+    font-size: x-large;
     -webkit-text-stroke: 1px #000;
 }
 
